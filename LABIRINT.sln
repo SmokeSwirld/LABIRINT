@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LABIRINT", "LABIRINT\LABIRINT.csproj", "{2A5B6D79-3736-4580-A4E8-4DBDA85DCAEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A5B6D79-3736-4580-A4E8-4DBDA85DCAEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A5B6D79-3736-4580-A4E8-4DBDA85DCAEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A5B6D79-3736-4580-A4E8-4DBDA85DCAEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A5B6D79-3736-4580-A4E8-4DBDA85DCAEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3797839-7148-464D-9199-F16DE39BB2D2}
+	EndGlobalSection
+EndGlobal
